@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d32480d-5027-4c52-a305-96fef242a306" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep Learning-Training/Challenge Task NLP 1 - Bug Localization/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Deep Learning-Training/Challenge Task NLP 1 - Bug Localization/main.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="33VCncfZzH3B9UdPueW538UZftQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bonxom/Code/DataScience&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Deep Learning-Training/Deep Learning Model/Practice 3" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d32480d-5027-4c52-a305-96fef242a306" name="Changes" comment="" />
+      <created>1759393020122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759393020122</updated>
+      <workItem from="1759393021265" duration="818000" />
+      <workItem from="1759452847346" duration="35000" />
+      <workItem from="1759453797622" duration="99000" />
+      <workItem from="1759650152307" duration="418000" />
+      <workItem from="1759813173999" duration="283000" />
+      <workItem from="1759813487782" duration="393000" />
+      <workItem from="1759813930661" duration="46000" />
+      <workItem from="1759814031190" duration="13951000" />
+      <workItem from="1759889361216" duration="5952000" />
+      <workItem from="1759902082595" duration="3878000" />
+      <workItem from="1759918548329" duration="332000" />
+      <workItem from="1759933656230" duration="10837000" />
+      <workItem from="1759944728145" duration="1923000" />
+      <workItem from="1759946659270" duration="267000" />
+      <workItem from="1759976644863" duration="2195000" />
+      <workItem from="1759982233477" duration="3541000" />
+      <workItem from="1759987541193" duration="328000" />
+      <workItem from="1759987876936" duration="3394000" />
+      <workItem from="1759996856258" duration="552000" />
+      <workItem from="1759997418995" duration="2013000" />
+      <workItem from="1760264095696" duration="663000" />
+      <workItem from="1760366353182" duration="1740000" />
+      <workItem from="1760410651285" duration="626000" />
+      <workItem from="1760449233274" duration="2217000" />
+      <workItem from="1760458121210" duration="2561000" />
+      <workItem from="1760497129523" duration="6706000" />
+      <workItem from="1760519031091" duration="1598000" />
+      <workItem from="1760534189045" duration="2829000" />
+      <workItem from="1760578913121" duration="4948000" />
+      <workItem from="1760589314437" duration="14499000" />
+      <workItem from="1760620408660" duration="14000" />
+      <workItem from="1760659834768" duration="48000" />
+      <workItem from="1760863680726" duration="6000" />
+      <workItem from="1761051176030" duration="3000" />
+      <workItem from="1761267844407" duration="403000" />
+      <workItem from="1762139559761" duration="320000" />
+      <workItem from="1762148864265" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

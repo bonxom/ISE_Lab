@@ -1,0 +1,20 @@
+# Challenge Task NLP 1 dataset artifacts
+Deep Learning-Training/Challenge Task NLP 1 - Bug Localization/Dataset/**
+Deep Learning-Training/Challenge Task NLP 1 - Bug Localization/Dataset/*
+Deep Learning-Training/Challenge Task NLP 1 - Bug Localization/Dataset/
+Deep Learning-Training/Challenge Task NLP 1 - Bug Localization/bug locator/data/**
+Deep Learning-Training/Challenge Task NLP 1 - Bug Localization/glove.6B.*
+Deep Learning-Training/Challenge Task NLP 1 - Bug Localization/*.txt
+.venv/
+# large data
+*.csv
+*.tgz
+*.zip
+*.tar.gz
+NLP_training/Challenge Task NLP 2 - Code2Que/Model
+NLP_training/**/cnn_stories.tgz
+NLP_training/**/pytorch_model.bin
+NLP_training/**/checkpoint-*/
+NLP_training/**/Dataset/**
+NLP_training/**/Model/**/checkpoint-*/
+NLP_training/Week 2 - Word Embeddings - RNN - LSTM - Seq2Seq/rNN - LSTM Practice 2/RNN và LSTM ứng dụng trong NLP/Practice 4/cnn_stories.tgz"
